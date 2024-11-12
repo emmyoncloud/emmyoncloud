@@ -13,14 +13,14 @@ Welcome to my GitHub profile! I'm a passionate Cloud & DevOps Engineer with a lo
 - 🔭 I’m currently building...
 - 🌱 I’m constantly learning and upskilling...
 - 👯 I’m looking to collaborate on Software Development and Open-Source Projects especially Cloud and DevOps Engineering related.
-- ⚡ Favourite Quote: _Success isn't Owned, it's Leased, and the rent is due Everyday_.
+- ⚡ Favourite Quote: "_Success isn't Owned, it's Leased, and the rent is due Everyday._"
 
 ## 🛠️ Technologies & Tools
 
 Here are some of the technologies and tools I work with:
 
 - **Languages**: Python, GO, C++.
-- **Tools**: AWS, Azure, GCP, Git, Linux, Docker, Kubernetes, Terraform, Ansible, GitHub Actions, Jenkins, Powershell, Bash (Shell Scripting), Prometheus, Grafana, ArgoCD...
+- **Tools**: AWS, Azure, GCP, Git, Linux, Docker, Kubernetes, Terraform, Ansible, GitHub Actions, Jenkins, Powershell, Bash (Shell Scripting), Prometheus, Grafana, ArgoCD ...
 
 <!---
 ## 📈 GitHub Stats
