@@ -13,18 +13,14 @@ Welcome to my GitHub profile! I'm a passionate Cloud & DevOps Engineer with a lo
 - 🔭 I’m currently building...
 - 🌱 I’m constantly learning and upskilling...
 - 👯 I’m looking to collaborate on Software Development and Open-Source Projects especially Cloud and DevOps Engineering related.
-- 💬 Ask me about [Topics you are knowledgeable about, e.g., JavaScript, Python, DevOps, etc.].
-- 📫 How to reach me: akormanuel@gmail.com.
-- ⚡ Fun fact: [A fun fact about yourself, e.g., I love hiking, I’m a coffee enthusiast, etc.].
+- ⚡ Favourite Quote: _Success isn't Owned, it's Leased, and the rent is due Everyday_.
 
 ## 🛠️ Technologies & Tools
 
 Here are some of the technologies and tools I work with:
 
-- **Languages**: [e.g., JavaScript, Python, Java, etc.]
-- **Frameworks**: [e.g., React, Angular, Django, etc.]
-- **Databases**: [e.g., MySQL, MongoDB, PostgreSQL, etc.]
-- **Tools**: [e.g., Git, Docker, AWS, etc.]
+- **Languages**: Python, GO, C++.
+- **Tools**: AWS, Azure, GCP, Git, Linux, Docker, Kubernetes, Terraform, Ansible, GitHub Actions, Jenkins, Powershell, Bash (Shell Scripting), Prometheus, Grafana, ArgoCD...
 
 <!---
 ## 📈 GitHub Stats
@@ -44,6 +40,7 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 ## 🌍 Connect with Me
 
+- [Email](akormanuel@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/emmanuelakor/)
 - [X (FKA Twitter)](https://x.com/emmyoncloud)
 - [Medium](https://medium.com/@emmyoncloud)
