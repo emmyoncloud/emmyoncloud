@@ -41,7 +41,7 @@ Feel free to explore my repositories and reach out if you have any questions or 
 ## 🌍 Connect with Me
 
 - [Email](akormanuel@gmail.com)
-- [Website](emmyoncloud.xyz)
+- [Website](https://www.emmyoncloud.xyz)
 - [LinkedIn](https://www.linkedin.com/in/emmanuelakor/)
 - [X (FKA Twitter)](https://x.com/emmyoncloud)
 - [Medium](https://medium.com/@emmyoncloud)
