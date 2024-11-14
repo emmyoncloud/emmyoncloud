@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# 👋 Hello, I'm Emmanuel Akor!
+# 👋🏾 Hello, I'm Emmanuel Akor!
 
 Welcome to my GitHub profile! I'm a passionate Cloud & DevOps Engineer with a love for leveraging Cloud technologies and DevOps tools to drive positive change. I enjoy working on projects that challenge me and allow me to learn new technologies.
 
